@@ -3,7 +3,7 @@
 
 
 - Objective:
-  * Build this model to get business insights about the no. of  product sold every month, analyze customer      
+  * Build this model to get business insights about the no. of  products sold every month, analyze customer      
     spend their money every month.
   * By gathering such data, analyzed the maketting values and helped in decision making to improve the business
     and improved maketting efficiency.
