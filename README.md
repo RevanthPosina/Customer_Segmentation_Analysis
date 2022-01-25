@@ -15,7 +15,7 @@
 
 # DataSet
 
-- Source Data is taken from :  
+- Source Data is taken from the following directory :  
 
 [Online retail dataset by UCI Machine Learning Library](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
 
