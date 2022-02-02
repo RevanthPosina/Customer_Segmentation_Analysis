@@ -5,8 +5,8 @@
 - Objective:
   * Build this model to get business insights about the no. of  products sold every month, analyze customer      
     spend their money every month.
-  * By gathering such data, analyzed the maketting values and helped in decision making to improve the business
-    and improved maketting efficiency.
+  * By gathering such data, analyzed the marketing values and helped in decision making to improve the business
+    and improved marketing efficiency.
   * Targetted customers based on segmented charecteristics.
   
 - Customer based Recommender System
